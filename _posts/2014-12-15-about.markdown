@@ -1,6 +1,8 @@
 ---
-layout: default
-title: Alliedbusiness
+layout: post
+title: "About Alliedbusiness"
+date: 2014-12-15
+description:
 ---
 
 Alliedbusiness, located in Japan, is at the forefront of accelerating AI-powered business practices through innovative software solutions. We specialize in developing Teams AI bots that empower organizations to boost productivity and efficiency by harnessing the power of artificial intelligence.

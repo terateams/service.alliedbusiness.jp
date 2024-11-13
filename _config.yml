@@ -1,9 +1,9 @@
-title: Long Haul
-description: Long Form Jekyll theme built with SASS
+title: Alliedbusiness
+description: We specialize in developing Teams AI bots that empower organizations to boost productivity and efficiency by harnessing the power of artificial intelligence.
 
-url: https://long-haul.netlify.app
+url: https://service.alliedbusiness.jp
 # Only necessary when hosting your site in a sub-directory. Project sites hosted on GitHub Pages are the common use-case of this variable.
-baseurl: # Ex: /project-page
+baseurl: "" # Ex: /project-page
 paginate_path: "blog/page:num/"
 permalink: blog/:title/
 
@@ -19,23 +19,23 @@ plugins: [jekyll-paginate]
 paginate: 5
 
 navigation:
-    - title: Home
-      url: /index.html
     - title: About
       url: /about
-    - title: Contact
-      url: /contact
+    - title: Service
+      url: /service
+    - title: Privacy
+      url: /privacy
 
 social:
-    github: brianmaierjr
-    twitter: brianmaierjr
-    facebook: brianmaierjr
-    email: brimaidesigns@gmail.com
-    linkedin: brianmaierjr
-    youtube: RickAstleyYT
-    tumblr: i-am-a-fish
+    github: terateams
+    # twitter: brianmaierjr
+    # facebook: brianmaierjr
+    # email: brimaidesigns@gmail.com
+    # linkedin: brianmaierjr
+    # youtube: RickAstleyYT
+    # tumblr: i-am-a-fish
 
-google_analytics: "UA-58263416-1"
+# google_analytics: "UA-58263416-1"
 
-disqus:
-    shortname: brianmaierjr
+# disqus:
+#     shortname: brianmaierjr
