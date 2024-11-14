@@ -10,3 +10,4 @@ Our flagship AI software solution is built upon the "Build, Learn, and Transfer"
 Upon subscribing, clients may opt for an AI Integrated Apps (AIP) agreement, allowing for deeper customization to suit their specific needs. Through this partnership, TeraTeams delivers a tailor-made AI solution, with dedicated support for the entire customization period. After a year, the bespoke AI-driven bot is transferred entirely to the client, ensuring complete autonomy and seamless integration into their business processes.
 
 At Alliedbusiness, we strive to redefine how businesses leverage AI technology, making collaboration more intelligent, communication more streamlined, and productivity limitless.
+
