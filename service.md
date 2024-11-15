@@ -41,4 +41,4 @@ Our Services are provided "as is" and "as available," without any express or imp
 
 These Terms and their interpretation and enforcement will be governed by the laws of the United States. You agree to submit to the exclusive jurisdiction of the courts in the United States.
 
-For any queries regarding these Terms, please contact us at [support@terateams.us](mailto:support@terateams.us).
+For any queries regarding these Terms, please contact us at [support@alliedbusiness.jp](mailto:support@alliedbusiness.jp).
