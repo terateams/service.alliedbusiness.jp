@@ -7,7 +7,7 @@ title: Terms of Use
 
 1\. Acceptance of Terms
 
-Welcome to TeraTeams Inc. ("We" or "Company"). Our website is [https://service.alliedbusiness.jp](https://service.alliedbusiness.jp/) ("Website"). By using our Website, our TeamCamp Edge plugin, AI-powered TeamsBot mentors, and other related services (collectively, the "Services"), you agree to comply with these Terms of Use ("Terms"). If you do not agree with these Terms, please do not use our Services.
+Welcome to Alliedbusiness アライドビジネス株式会社 . ("We" or "Company"). Our website is [https://service.alliedbusiness.jp](https://service.alliedbusiness.jp/) ("Website"). By using our Website, our TeamCamp Edge plugin, AI-powered TeamsBot mentors, and other related services (collectively, the "Services"), you agree to comply with these Terms of Use ("Terms"). If you do not agree with these Terms, please do not use our Services.
 
 2\. User Terms
 
