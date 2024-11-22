@@ -11,3 +11,6 @@ Upon subscribing, clients may opt for an AI Integrated Apps (AIP) agreement, all
 
 At Alliedbusiness, we strive to redefine how businesses leverage AI technology, making collaboration more intelligent, communication more streamlined, and productivity limitless.
 
+If you encounter any technical issues or have questions about using our Teams App (Ta1010), we’re here to help!
+
+Contact Us For assistance, please reach out to our support team at: 📧 support@alliedbusiness.jp
