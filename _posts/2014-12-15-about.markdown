@@ -5,7 +5,7 @@ date: 2014-12-15
 description:
 ---
 
-Alliedbusiness アライドビジネス株式会社, located in Japan, is at the forefront of accelerating AI-powered business practices through innovative software solutions. We specialize in developing Teams AI bots that empower organizations to boost productivity and efficiency by harnessing the power of artificial intelligence.
+Alliedbusiness アライドビジネスクラウド合同会社, located in Japan, is at the forefront of accelerating AI-powered business practices through innovative software solutions. We specialize in developing Teams AI bots that empower organizations to boost productivity and efficiency by harnessing the power of artificial intelligence.
 
 Our flagship AI software solution is built upon the "Build, Learn, and Transfer" (BLT) process, which offers a unique path for companies looking to adopt customized AI capabilities. The process begins with a standardized software solution that aligns with Microsoft's business market standards. Organizations can acquire this software through a straightforward subscription model, paying an annual fee for access to a powerful AI tool.
 
