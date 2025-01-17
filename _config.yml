@@ -25,6 +25,10 @@ navigation:
       url: /service
     - title: Privacy
       url: /privacy
+    - title: Sign in
+      url: https://ta1010.alliedbusiness.jp
+    - title: Sign up
+      url: https://ta1010.alliedbusiness.jp/#/register
 
 social:
     github: terateams
