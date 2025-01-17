@@ -30,8 +30,8 @@ navigation:
     - title: Sign up
       url: https://ta1010.alliedbusiness.jp/#/register
 
-social:
-    github: terateams
+# social:
+    # github: terateams
     # twitter: brianmaierjr
     # facebook: brianmaierjr
     # email: brimaidesigns@gmail.com
